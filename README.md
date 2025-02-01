@@ -64,7 +64,7 @@ After Submission
 5. **Installation**: Instructions on how to run the project locally.
 6. **File Structure**: Shows the project structure, explaining each file’s role.
 7. **Usage**: How users can interact with the quiz.
-8. **Example**: An example of the quiz experience after submitting answers.
+
 
 
 
